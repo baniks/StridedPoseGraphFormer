@@ -1,0 +1,11 @@
+# Datasets
+dataset/h36m/**/data*.npz
+dataset/**/*.pkl
+dataset/**/*.jpg
+dataset/**/*.zip
+
+
+# Snapshot checkpoints
+checkpoint/*
+
+
